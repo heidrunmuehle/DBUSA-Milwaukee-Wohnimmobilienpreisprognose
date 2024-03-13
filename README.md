@@ -1,5 +1,3 @@
-# DBUSA-Milwaukee-Wohnimmobilienpreisprognose
-Repository im Rahmen der Seminararbeit Applied Data Science II
 
 # Analyse von Immobilienverkaufsdaten der Stadt Milwaukee
 
@@ -36,4 +34,5 @@ Die Analyse zeigt, dass das Gradient Boosting Regressor-Modell mit spezifischen 
 ## Verwendung
 
 Um das "Main_final_Noebook" zu verwenden, müssen jedenfalls folgende neben der Aktivierung der ads-ml-full-Python 3.11.8. Umgegbung vorgesehenen Requirements installiert werden und die Zellen sind von oben nach unten auszuführen.
+
 
