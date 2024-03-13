@@ -1,5 +1,5 @@
 
-# Analyse von Immobilienverkaufsdaten der Stadt Milwaukee
+# Analyse von Immobilienverkaufsdaten der Stadt Milwaukee 2002-2018
 
 Dieses Projekt konzentriert sich auf die Analyse von Immobilienverkaufsdaten, um Muster und Einflussfaktoren auf den Verkaufspreis von Immobilien in Milwaukee zu identifizieren. Das Hauptziel ist es, ein präzises Prognosemodell für die Vorhersage von Verkaufspreisen zu entwickeln, das den Verkaufspreis basierend auf verschiedenen Eigenschaften der Immobilie möglichst valide vorhersagen kann.
 
